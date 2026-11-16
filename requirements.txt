@@ -1,3 +1,7 @@
-pandas
-requests
-jupyter
+fastapi
+uvicorn
+joblib
+numpy
+pydantic
+scikit-learn==1.7.2
+httpx
